@@ -1,1 +1,1 @@
-# Rozwiązania do laboratorium z Biologii molekularnej z genetyką
+ Rozwiązania do laboratorium z Biologii molekularnej z genetyką
